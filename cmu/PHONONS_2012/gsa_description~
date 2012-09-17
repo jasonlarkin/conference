@@ -1,0 +1,30 @@
+This is my accepted talk abstract:
+
+Ordered and Disordered Contributions to Lattice Thermal Conductivity
+
+Understanding thermal transport in crystalline systems requires detailed
+knowledge of phonons, which
+are the quanta of energy associated with atomic vibrations. By definition,
+phonons are non-localized
+vibrations that transport energy over distances much larger than the atomic
+spacing. For disordered materials (e.g., alloys, amorphous phases), with the
+exception of very long wavelength modes, the vibrational modes are localized
+and do not propagate like phonons. The Einstein model assumes that the mean
+free path of these localized vibrations is the average interatomic distance
+and that their group velocity is equal to the speed of sound. The
+Cahill-Pohl model assumes that the mean free path of the localized modes is
+equal to half of their wavelength. While these approach can be used to
+estimate a lower limit to the thermal conductivity of disordered systems,
+they only provide a
+qualitative description of the vibrations that contribute to the lattice
+thermal conductivity.
+
+Using lattice dynamics calculations and molecular dynamics simulations on
+Lennard-Jones crystalline, alloy, and amorphous systems, we predict and
+characterize the contributions from phonons and localized vibrations to
+lattice thermal conductivity. The results are used to motivate simple and
+computationally cheap models to predict the lattice thermal conductivity of
+a range of disordered materials.
+
+
+This conference provides a unique oppurtunity to meet with other researchers on the topic of phonons (as per the conference title).  In particular, researchers working on a wide range of phonon topics will be in attendance, ranging from the nano-scale (which I work on) to the meso- and macro-scales.  For this reason I believe this conference will be a very useful interaction with diverse research in my field.
